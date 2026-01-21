@@ -1,16 +1,13 @@
-## Hi there 👋
+<img src="https://github.com/rNLKJA/rNLKJA/blob/main/images/Rin%20Huang.png" width="100%" alt="Rin Huang"/>
 
-<!--
-**Singine/Singine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+┌─ E D R I C ─────────────────────────────────────────────────────────── 🐾 P a w s i b i l i t y ─┐
+│ Intelligence and Coordination Officer @ CBS & Ex Unimelb \ WEHI \ CSIRO \ CSL                              │
+|                                                                                                            |
+│ generalist → prototype → intelligence → enforcement                                                        │
+│ operate across data · intelligence · research infrastructure · technical enablement                        │    
+└────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+```
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
