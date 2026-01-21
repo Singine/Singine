@@ -1,4 +1,4 @@
-<img src="https://github.com/Singine/Singine/blob/main/images/welcome.gif" width="100%" alt="Edric Ding"/>
+<img src="https://github.com/Singine/Singine/blob/main/images/edric.gif" width="50%" alt="Edric Ding"/>
 
 ```
 ┌─ E D R I C ─────────────────────────────────────────────────────────── 🐾 P a w s i b i l i t y ─┐
