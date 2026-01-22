@@ -9,19 +9,19 @@
 </div>
 
 ```
-┌─ E D R I C ──────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
-│                                                                                                                          │
-│ For most people, life is not inherently meaningful.                                                                      │
-│ Time will ultimately erase every trace of what once existed.                                                             │
-│                                                                                                                          │
-│ So while we are alive, what matters is the experience of the journey itself:                                             │
-│ step out into the world,                                                                                                 │  
-│ immerse yourself in different places and cultures,                                                                       │
-│ and make as many earnest attempts as you can.                                                                            │
-│                                                                                                                          │
-│ That is life.                                                                                                            │
-│                                                                                                                          │
-└──────────────────────────────────────────────────────────────────────────────────────────────────────────── Carpe diem. ─┘
+┌─ E D R I C ─────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
+│                                                                                                                         │
+│ For most people, life is not inherently meaningful.                                                                     │
+│ Time will ultimately erase every trace of what once existed.                                                            │
+│                                                                                                                         │
+│ So while we are alive, what matters is the experience of the journey itself:                                            │
+│ step out into the world,                                                                                                │  
+│ immerse yourself in different places and cultures,                                                                      │
+│ and make as many earnest attempts as you can.                                                                           │
+│                                                                                                                         │
+│ That is life.                                                                                                           │
+│                                                                                                                         │
+└─────────────────────────────────────────────────────────────────────────────────────────────────────────── Carpe diem. ─┘
 ```
 
 
