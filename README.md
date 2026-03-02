@@ -19,7 +19,7 @@
 │ immerse yourself in different places and cultures,                                                                       │
 │ and make as many earnest attempts as you can.                                                                            │
 │                                                                                                                          │
-│ That is life.                                                                                                            │
+│ That is life!                                                                                                            │
 │                                                                                                                          │
 └──────────────────────────────────────────────────────────────────────────────────────────────────────────── Carpe diem. ─┘
 ```
